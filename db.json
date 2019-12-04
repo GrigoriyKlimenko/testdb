@@ -1,9 +1,9 @@
 {
     'TopTenTracks' : {
-        information: {
-            mainTitle: 'beatport_top10.png',
-            viewMore: 'View Beatport Top 100 Tracks '
-        },
+        information: [
+            {mainTitle: 'beatport_top10.png',
+            viewMore: 'View Beatport Top 100 Tracks '}
+        ],
         tracklist: [
             {
                 place: 1,
